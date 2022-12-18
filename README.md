@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zachfreistedt
 - 👀 I’m interested in Data Analytics and Visualization, music, non-profits and slingin' discs.
 - 🌱 I’m currently learning Python, SQL, Tableau and Power BI.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that help organizations increase their impact and drice change in the community.
 - 📫 How to reach me ...
 
 <!---
